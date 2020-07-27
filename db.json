@@ -1,0 +1,42 @@
+{
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "OM restaurant",
+      "address": "delhi",
+      "email": "om@gmail.com"
+    },
+    {
+      "name": "Bombay restaurant",
+      "email": "bombay@gmail.com",
+      "address": "mumbai south",
+      "id": 3
+    },
+    {
+      "name": "Madras restaurant",
+      "email": "madras@gmail.com",
+      "address": "madras",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Bengalore restaurant",
+      "address": "bengalore",
+      "email": "bengalore@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter1234@gmail.com",
+      "password": "peter12345",
+      "id": 1
+    },
+    {
+      "name": "anuja",
+      "email": "mishti99812@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ]
+}
