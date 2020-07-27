@@ -2,7 +2,7 @@
   "restaurants": [
     {
       "id": 2,
-      "name": "OM restaurant",
+      "name": "restaurant",
       "address": "delhi",
       "email": "om@gmail.com"
     },
